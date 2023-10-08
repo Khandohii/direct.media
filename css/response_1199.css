@@ -1,0 +1,26 @@
+@media (max-width: 1199px){
+    /*---------------
+        Main styles
+    ---------------*/
+
+    /*---------------
+        Header
+    ---------------*/
+
+    /*---------------
+        Main section
+    ---------------*/
+    .advertisers .data {
+        width: calc(54% - 30px);
+    }
+
+
+    .career .img img{
+        margin-left: -30px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+
+}

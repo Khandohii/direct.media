@@ -1,0 +1,121 @@
+@media (max-width: 479px){
+    /*---------------
+        Main styles
+    ---------------*/
+    .link_btn a,
+    .link_btn button{
+        width: 100%;
+    }
+
+
+    .form .submit,
+    .form .submit_btn{
+        width: 100%;
+    }
+
+    .form .line_submit .error_text{
+        order: -1;
+    }
+
+    .radio .label_check .check_text{
+        padding: 5px 15px;
+        height: 40px;
+    }
+
+
+    .text_block ul li{
+        padding-left: 22px;
+    }
+
+    .text_block ul li:before{
+        width: 10px;
+        height: 10px;
+        top: 7px;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+    header .link_btn{
+        width: 100%;
+    }
+
+    /*---------------
+        Main section
+    ---------------*/
+    .first_section .img img{
+        min-height: 289px;
+    }
+
+    .tags{
+        margin-top: 50px;
+    }
+
+    .tags .grid .tag{
+        font-size: 13px;
+    }
+
+
+    .about{
+        margin-top: 50px;
+    }
+
+    .about .text_block{
+        margin-top: 20px;
+    }
+
+
+    .advertisers{
+        margin-top: 50px;
+    }
+
+    .advertisers .data{
+        margin-top: 20px;
+    }
+
+    .advertisers .text_block{
+        margin-top: 20px;
+    }
+
+    .advertisers .link_btn{
+        margin-top: 30px;
+    }
+
+
+    .career{
+        margin-top: 50px;
+    }
+
+    .career .link_btn{
+        margin-top: 30px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+    footer .menu{
+        justify-content: space-between;
+        margin-top: 25px;
+    }
+
+    footer .menu .item + .item{
+        margin-left: 15px;
+    }
+
+
+    .fancybox-slide--html .fancybox-close-small{
+        top: 22px;
+        right: 20px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .modal{
+        padding: 15px;
+        border-radius: 15px;
+    }
+
+    .modal_title{
+        font-size: 30px;
+    }
+}
